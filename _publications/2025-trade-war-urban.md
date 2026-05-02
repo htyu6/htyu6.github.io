@@ -2,7 +2,7 @@
 title: "Trade War Shocks and Urban Structural Transformation in China"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-trade-war-urban
+permalink: /publication/2026-trade-war-urban
 excerpt: 'Manuscript under review at <i>China Economic Review</i>.'
 date: 2026-03-25
 venue: 'Manuscript under review at <i>China Economic Review</i>'
