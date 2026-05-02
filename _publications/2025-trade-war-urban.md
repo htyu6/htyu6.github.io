@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-trade-war-urban
 excerpt: 'Manuscript under review at <i>China Economic Review</i>.'
-date: 2025-12-01
+date: 2026-03-25
 venue: 'Manuscript under review at <i>China Economic Review</i>'
 ---
 
