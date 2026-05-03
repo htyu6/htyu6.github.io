@@ -55,7 +55,15 @@ See the [Research](/publications/) page for full list and abstracts.
 * *Frontiers in Education Economics and Chinese Practice*, Peking University Graduate Summer School (2025)
 * *Annual Forecasting Summer School*, Chinese Academy of Sciences (2025)
 * *Xiangzhang Young Scholars Summer Program (香樟青苗计划)*, University of Chinese Academy of Social Sciences (2025)
+* *"Artificial Intelligence and Humanistic Economics" Summer School*, University of Chinese Academy of Sciences (2025)
+* *WIPO–China Summer School on Intellectual Property*, World Intellectual Property Organization & Renmin University of China (2025)
+* *Online Visiting Student in Economics*, UMass Lowell (2025)
+* *Shanghai University of International Business and Economics – YES Summer School on "Economic Research for the Real World"* (2024)
 * *Economic Theory and Methods in the Intelligent Era*, University of Chinese Academy of Sciences (2024)
+* *Summer Session in Economics*, Peking University (2024)
+* *Online Visiting Student in Business*, University of Illinois Urbana-Champaign (2024)
+* *Summer Session*, University of California, Davis (2023)
+* *Online Visiting Student in Mathematics*, Johns Hopkins University (2023)
 * *Field Research Management and Best Practices*, World Bank Group Academy
 
 ## Skills
