@@ -1,9 +1,9 @@
 ---
 title: "Extreme Weather and Housing Premiums: Evidence from Shanghai"
 collection: publications
-category: manuscripts
+category: working_papers
 permalink: /publication/2026-shanghai-housing
-excerpt: 'With Xuezheng Qin and Ke Xu (Peking University). Working paper.'
+excerpt: 'With Xuezheng Qin and Ke Xu (Peking University)'
 date: 2026-05-01
 venue: 'Working paper'
 ---
