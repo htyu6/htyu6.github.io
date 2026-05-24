@@ -1,13 +1,12 @@
 ---
 title: "US–China Trade War and Global Value Chains: Evidence from Chinese Provinces"
 collection: publications
-category: manuscripts
+category: working_papers
 permalink: /publication/2025-gvc-trade-war
-excerpt: 'Working paper.'
+excerpt: 'A province–industry panel analysis of heterogeneous trade war impacts across Chinese regions.'
 date: 2025-12-01
 venue: 'Working paper'
 ---
-
 <details>
 <summary><b>Abstract</b> (click to expand)</summary>
 <br>
