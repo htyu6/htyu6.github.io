@@ -1,13 +1,12 @@
 ---
 title: "Municipal Environmental Infrastructure and Industrial Transformation: Evidence from Chinese Cities"
 collection: publications
-category: manuscripts
+category: in_progress
 permalink: /publication/2026-municipal-infrastructure
-excerpt: 'Research in progress (proposal stage).'
+excerpt: 'A continuous DID design using city-specific wastewater treatment intensity to study how environmental infrastructure shaped industrial composition during China''s 11th Five-Year Plan.'
 date: 2026-04-01
 venue: 'Research in progress (proposal stage)'
 ---
-
 <details>
 <summary><b>Project Summary</b> (click to expand)</summary>
 <br>
