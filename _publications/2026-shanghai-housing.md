@@ -3,7 +3,7 @@ title: "Extreme Weather and Housing Premiums: Evidence from Shanghai"
 collection: publications
 category: working_papers
 permalink: /publication/2026-shanghai-housing
-excerpt: 'Extreme heat exposure during listing erodes the south-facing premium in Shanghai apartments by about 17%, consistent with projection bias.'
+excerpt: 'Extreme heat during the listing window erodes the south-facing premium in Shanghai apartments, consistent with rational capitalization of cumulative cooling costs.'
 date: 2026-05-01
 venue: 'Working paper'
 ---
