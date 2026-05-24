@@ -3,13 +3,11 @@ title: "Extreme Weather and Housing Premiums: Evidence from Shanghai"
 collection: publications
 category: working_papers
 permalink: /publication/2026-shanghai-housing
-excerpt: 'With Xuezheng Qin and Ke Xu (Peking University)'
+excerpt: 'Extreme heat exposure during listing erodes the south-facing premium in Shanghai apartments by about 17%, consistent with projection bias.'
 date: 2026-05-01
 venue: 'Working paper'
 ---
-
 **Coauthors.** Xuezheng Qin (Peking University) and Ke Xu (Peking University).
-
 <details>
 <summary><b>Abstract</b> (click to expand)</summary>
 <br>
