@@ -5,9 +5,8 @@ title: "About"
 author_profile: true
 redirect_from:
 
-* /about/
-* /about.html
-
+/about/
+/about.html
 ---
 
 I am a first-year PhD student in Economics at **Georgia Tech**. I hold an MPS in Applied Economics and Management from **Cornell University** and a B.A. in Economics from the University of California, Irvine.
