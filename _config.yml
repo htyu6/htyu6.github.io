@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Haotian Yu"
 title_separator          : "-"
 name                     : &name "Haotian Yu"
-description              : &description "Personal website of Haotian Yu, Incoming PhD Student in Economics at Georgia Tech."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Personal website of Haotian Yu, PhD Student in Economics at Georgia Tech."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://htyu6.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Haotian Yu"
   pronouns         : 
-  bio              : "MPS Candidate, Cornell University. Incoming PhD Student in Economics, Georgia Tech (Fall 2026)."
-  location         : "Ithaca, NY"
-  employer         : "Cornell University"
+  bio              : "PhD Student in Economics at Georgia Tech."
+  location         : "Atlanta, GA"
+  employer         : "Georgia Institute of Technology"
   uri              : 
   email            : "haotian.yu0713@gmail.com"
 
