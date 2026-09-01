@@ -1,14 +1,17 @@
 ---
-title: "Trade War Shocks and Urban Structural Transformation in China"
+title: "Trade War Shocks and Urban Structural Transformation: Evidence from Chinese Cities"
 collection: publications
 category: rr
 permalink: /publication/2026-trade-war-urban
-excerpt: 'A PSM-DID design across 276 Chinese cities documents "passive de-servicification" following the U.S.–China trade tensions.'
-date: 2026-03-25
+excerpt: 'Greater exposure to the U.S.–China trade war shifted Chinese cities relatively away from services and toward goods-producing activity, a pattern described as "passive de-servicification."'
+date: 2026-08-19
 venue: 'Revise and resubmit at <i>China Economic Review</i>'
 ---
+
 <details>
 <summary><b>Abstract</b> (click to expand)</summary>
 <br>
-Using a propensity-score-matched difference-in-differences design across 276 Chinese cities (2010–2023), this paper documents a "passive de-servicification" effect of U.S.–China trade tensions. Cities more exposed to trade barriers experienced a 1.7-percentage-point decline in tertiary sector share, with evidence consistent with FDI withdrawal as an important channel. Results are robust to event-study, dose-response, log-level share-illusion checks, wild cluster bootstrap, and randomization inference.
+
+This paper examines how exposure to the U.S.–China trade war affected urban structural transformation in China. Using cross-city variation in pre-war export intensity, I find that a one-standard-deviation increase in exposure lowers the tertiary-sector share by about 1.1 percentage points after 2018. The level estimates do not show a robust contraction in service output; instead, secondary-sector value added rises while tertiary-sector value added does not keep pace. I describe this relative shift toward goods-producing activity as "passive de-servicification." Evidence on the specific mechanisms behind the adjustment is more limited, and the effects are larger in the Northeast and in small and medium-sized cities.
+
 </details>
