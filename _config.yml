@@ -22,14 +22,13 @@ repository               : "htyu6/htyu6.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
   name             : "Haotian Yu"
-  pronouns         : 
+  pronouns         :
   bio              : "PhD Student in Economics at Georgia Tech."
   location         : "Atlanta, GA"
-  employer         : "Georgia Institute of Technology"
-  uri              : 
+  employer         : "Georgia Tech"
+  uri              :
   email            : "haotian.yu0713@gmail.com"
 
   # Academic websites
