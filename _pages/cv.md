@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* **Ph.D. in Economics**, Georgia Institute of Technology (incoming, Fall 2026)
+* **Ph.D. in Economics**, Georgia Institute of Technology, 2026 – Present
 * **M.P.S. in Applied Economics and Management**, Cornell University, 2025 – 2026
 * **B.A. in Economics**, University of California, Irvine, 2023 – 2025
 
@@ -23,38 +23,46 @@ International trade · Environmental economics · Urban and regional economics �
 
 See the [Research](/publications/) page for full list and abstracts.
 
-* **Trade War Shocks and Urban Structural Transformation in China.** Revise and resubmit at *China Economic Review*.
-* **Extreme Heat and the Erosion of the South-facing Premium: Evidence from Shanghai's Resale Housing Market.** With Ke Xu and Xuezheng Qin (Peking University). Working paper.
+* **Trade War Shocks and Urban Structural Transformation: Evidence from Chinese Cities.** Revise and resubmit at *China Economic Review*.
+* **Extreme Heat and the Reduction of the South-Facing Premium: Evidence from Shanghai's Housing Market.** With Ke Xu and Xuezheng Qin (Peking University). Working paper.
+* **Municipal Environmental Infrastructure and Industrial Transformation: Evidence from Chinese Cities.** With Yuhang Pan and Wenda Zhang. Working paper.
 * **US–China Trade War and Global Value Chains: Evidence from Chinese Provinces.** Working paper.
-* **Municipal Environmental Infrastructure and Industrial Transformation: Evidence from Chinese Cities.** Research in progress.
 
 ## Research Experience
 
 * **Research Assistant**, *Peking University, Institute for Global Health and Development*. Advisor: Prof. Yuhang Pan.
 
-* **Research Assistant**, *Peking University*. Advisors: Prof. Xuezheng Qin, Dr. Ke Xu.
+* **Research Assistant**, *Peking University*. Advisors: Prof. Xuezheng Qin, Dr. Ke Xu.  
   Housing markets, climate exposure, and AI adoption in Chinese hospitals.
 
-* **Research Assistant**, *SUNY-Albany*. Advisor: Prof. Haruka Takayama.
+* **Research Assistant**, *SUNY-Albany*. Advisor: Prof. Haruka Takayama.  
   Foreign direct investment and environmental compliance in Bangladesh.
 
-* **Research Assistant**, *Shanghai Jiao Tong University*. Advisor: Prof. Yuta Suzuki. (June 2025 – October 2025)
+* **Research Assistant**, *Shanghai Jiao Tong University*. Advisor: Prof. Yuta Suzuki. (June 2025 – October 2025)  
   Spatial structural change in China and Europe.
+
+## Teaching Experience
+
+* **Teaching Assistant**, *Georgia Institute of Technology*, Fall 2026  
+  Principles of Macroeconomics (ECON 2105), Instructor: Prof. Manho Kang.
+
+* **Teaching Assistant**, *Georgia Institute of Technology*, Fall 2026  
+  Principles of Macroeconomics (ECON 2105), Instructor: Prof. Woodbury.
 
 ## Industry Experience
 
-* **Economic Analysis Intern**, *Neuroblade Ltd.* (Dec 2024 – Jan 2025)
+* **Economic Analysis Intern**, *Neuroblade Ltd.* (Dec 2024 – Jan 2025)  
   Industrial organization analysis of the SPU market using game-theoretic frameworks; demand elasticity and pricing in hardware markets.
 
-* **Economic Analyst Intern**, *Intel*, Beijing (Jul 2024 – Sep 2024)
+* **Economic Analyst Intern**, *Intel*, Beijing (Jul 2024 – Sep 2024)  
   Built economic forecasting models comparing traditional econometric methods with machine learning approaches.
 
-* **Market Research Analyst Intern**, *Anchor Real Estate Capital*, Irvine, CA (Jun 2023 – Aug 2023)
+* **Market Research Analyst Intern**, *Anchor Real Estate Capital*, Irvine, CA (Jun 2023 – Aug 2023)  
   Market analysis and risk assessment of residential properties across four southwestern U.S. states.
 
 ## Selected Academic Programs
 
-* *Doughnut Economics Summer Workshop*, Sun Yat-sen University (incoming, Summer 2026)
+* *Doughnut Economics Summer Workshop*, Sun Yat-sen University (2026)
 * *Frontiers in Education Economics and Chinese Practice*, Peking University Graduate Summer School (2025)
 * *Annual Forecasting Summer School*, Chinese Academy of Sciences (2025)
 * *Xiangzhang Young Scholars Summer Program (香樟青苗计划)*, University of Chinese Academy of Social Sciences (2025)
