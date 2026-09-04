@@ -33,7 +33,8 @@ See the [Research](/publications/) page for full list and abstracts.
 * **Research Assistant**, *Peking University, Institute for Global Health and Development*. Advisor: Prof. Yuhang Pan.
 
 * **Research Assistant**, *Peking University*. Advisors: Prof. Xuezheng Qin, Dr. Ke Xu.  
-  Housing markets, climate exposure, and AI adoption in Chinese hospitals.
+  Housing markets, climate exposure, and AI adoption in Chinese hospitals.  
+  Project team member, *High-Quality Development of the Health Industry in the Guangdong–Hong Kong–Macao Greater Bay Area* (government-commissioned policy research project), 2025.
 
 * **Research Assistant**, *SUNY-Albany*. Advisor: Prof. Haruka Takayama.  
   Foreign direct investment and environmental compliance in Bangladesh.
